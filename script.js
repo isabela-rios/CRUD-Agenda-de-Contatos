@@ -54,4 +54,4 @@ function renderizar() {
       </tr>
     `;
   });
-}
+}{}
